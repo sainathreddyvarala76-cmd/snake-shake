@@ -1,0 +1,6 @@
+{
+  "name": "SynthSnake",
+  "description": "A neon-themed Snake game combined with a Music Player featuring AI-generated demo tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
